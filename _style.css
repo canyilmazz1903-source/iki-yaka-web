@@ -1,0 +1,5 @@
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:#eaf3fb;color:#2d3550;line-height:1.55}
+main{max-width:760px;margin:0 auto;padding:28px 18px 60px}
+h1{color:#2443a8;font-size:28px;margin:8px 0 4px}h2{color:#2443a8;font-size:20px;margin-top:28px}
+.card{background:#fff;border-radius:18px;padding:20px 22px;box-shadow:0 4px 14px rgba(0,0,0,.06);margin-top:16px}
+a{color:#2f6fe0}small{color:#6b7591}nav a{margin-right:14px}
